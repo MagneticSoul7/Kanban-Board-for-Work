@@ -1,4 +1,4 @@
-# Kanban Board
+# Kanban Board for Work
 
 Challenge #14 Full-Stack React
 
@@ -8,7 +8,7 @@ This application allows a user to securely create and log into their own Kanban 
 
 ## Table of Contents: 
 
-1. [Title](#Kanban-Board) 
+1. [Title](#kanban-board-for-work) 
 2. [Description](#description) 
 3. [Table of Contents](#table-of-contents) 
 4. [Technologies Used](#technologies-used) 
